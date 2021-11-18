@@ -1,5 +1,7 @@
 # CIKM2021CUP- **多模态视频相似度**
 
+首先感谢两位队友的努力，@zlh1992，@yrqUni
+
 1. 赛题介绍、数据集下载见[here](https://algo.browser.qq.com/), 另外我制作了一个[PPT](cikm2021-multimodulity-retrieval.pdf)来介绍赛题。
 
 2. 该比赛第一名的方法[论文](https://arxiv.org/abs/2111.01677)及[代码](https://github.com/zr2021/2021_QQ_AIAC_Tack1_1st)已开源。
