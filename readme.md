@@ -61,7 +61,7 @@ loss = SpearmanCorrelationLoss(0.2)(emb1, emb2, target.view(-1))
 | ---------- | -------------- | ------|
 | RNT+MSE    | 0.884          | 0.833 |
 | LBPC(ours) | 0.885          | 0.836 |
-| RNT+LBPC   | 0.8865         |       |
+| RNT+LBPC   | 0.8865         | 0.834 |
 
 其中，RNT是Rank normalization of targets的缩写。
 
